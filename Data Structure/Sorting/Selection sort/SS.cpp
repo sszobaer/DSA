@@ -1,5 +1,5 @@
+//Task: Perform a selection sort to sort 92, 82, 21, 16, 18, 95 these values
 #include <iostream>
-
 using namespace std;
 
 void selectionSort(int arr[], int size, int& comparisons, int& exchanges) {
