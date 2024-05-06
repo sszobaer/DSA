@@ -1,5 +1,5 @@
+// Task: Perform a Insertion sort method to sort 92, 82, 21, 16, 18, 95 this values
 #include <iostream>
-
 using namespace std;
 
 void insertionSort(int arr[], int size, int& comparisons, int& shifts) {
