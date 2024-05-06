@@ -1,3 +1,7 @@
+/*Task: Create a queue and show 
+1.EnQueue()
+2. DeQueue()
+3. display()*/
 #include <bits/stdc++.h>
 #define size 5
 
